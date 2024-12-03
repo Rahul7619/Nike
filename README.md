@@ -1,3 +1,0 @@
-# Nike
-NRC
-NTC
